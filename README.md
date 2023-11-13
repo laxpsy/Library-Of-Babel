@@ -37,3 +37,6 @@ Note: the generalization about the contents of the blog may be misleading - pers
 ## YouTube 
 - https://www.youtube.com/@LowLevelLearning | Low Level Learning, a good channel about general low level stuff 
 
+## Tools
+- https://randoma11y.com/ | Color generator that generates a contrasting color along with the color you selected. Very good for themeing.
+
